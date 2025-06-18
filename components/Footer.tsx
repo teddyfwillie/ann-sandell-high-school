@@ -96,7 +96,7 @@ export default function Footer() {
               <div className="flex items-center space-x-2">
                 <MapPin className="h-4 w-4 text-amber-500" />
                 <span className="text-gray-300 text-sm">
-                  123 Education St, Learning City, LC 12345
+                  Police Academy Road, Paynesville City, Liberia
                 </span>
               </div>
               <div className="flex items-center space-x-2">

@@ -27,9 +27,7 @@ export default function Navbar() {
           <div className="flex items-center">
             <Link href="/" className="flex items-center space-x-2">
               <Image src="/logo.svg" alt="Logo" width={42} height={42} />
-              <span className="text-xl font-bold text-gray-900">
-                Ann Sandell High School
-              </span>
+              <span className="text-xl font-bold text-gray-900">ASHS</span>
             </Link>
           </div>
 
